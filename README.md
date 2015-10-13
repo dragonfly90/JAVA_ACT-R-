@@ -90,3 +90,22 @@ public class TaskLine extends JPanel implements TaskComponent
 	}
 }
 ```
+
+VisualObject Defintion
+``` 
+VisualObject (Symbol id, Symbol kind, Symbol value, int x, int y, int w, int h, double d)
+		{
+			this.id = id;
+			this.kind = kind;
+			this.value = value;
+			this.x = x;
+			this.y = y;
+			this.w = w;
+			this.h = h;
+			this.d = d;
+			attended = false;
+			attendedTime = 0;
+			creationTime = model.getTime();
+			visloc = null;
+		}
+```
