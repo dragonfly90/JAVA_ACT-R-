@@ -1,7 +1,7 @@
 Improve [JAVA ACTR](http://cog.cs.drexel.edu/act-r/index.php) by [Dario Salvucci](https://www.cs.drexel.edu/~salvucci/index.php)
 
 Another implementation : jACT-R an open source Java implementation of ACT-R[http://jact-r.org]
-
+The open source can be found in [amharrison/jactr](https://github.com/amharrison/jactr)
 task 1: add line
 
 (chunk-type (line (:include visual-object)) end1-x end1-y end2-x end2-y)
