@@ -2,6 +2,8 @@ Improve [JAVA ACTR](http://cog.cs.drexel.edu/act-r/index.php) by [Dario Salvucci
 
 Another implementation : [jACT-R an open source Java implementation of ACT-R](http://jact-r.org)
 
+[NEW ACT-R MODEL](https://github.com/amharrison/jactr/blob/ec5f34f5dd12961caf821bbb5fed30bf4a533ccd/org.jactr/refactorings/java/org/jactr/modules/pm/visual/memory/impl/encoder/LineEncoder.java) has implemented it.
+
 The open source can be found in [amharrison/jactr](https://github.com/amharrison/jactr)
 
 task 1: add line
@@ -115,3 +117,6 @@ VisualObject (Symbol id, Symbol kind, Symbol value, int x, int y, int w, int h, 
 ```
 
 Java application: Swing awt 
+
+
+https://github.com/amharrison/jactr/blob/ec5f34f5dd12961caf821bbb5fed30bf4a533ccd/org.jactr/refactorings/java/org/jactr/modules/pm/visual/memory/impl/encoder/LineEncoder.java
