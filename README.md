@@ -1,4 +1,4 @@
-Improve [JAVA ACTR]http://cog.cs.drexel.edu/act-r/index.php
+Improve [JAVA ACTR](http://cog.cs.drexel.edu/act-r/index.php) by [Dario Salvucci](https://www.cs.drexel.edu/~salvucci/index.php)
 
 task 1: add line
 
